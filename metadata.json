@@ -1,0 +1,6 @@
+{
+  "name": "Mobil Yaşam",
+  "description": "Alışkanlık takibi, günlük görevler, bütçe yönetimi ve odaklanma araçlarıyla hepsi bir arada modern mobil yaşam asistanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
